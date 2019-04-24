@@ -6,7 +6,7 @@ public class Pr1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//sshhhhh
+		//sshhhhhkkkk
 		JNTU16 rw1=new JNTU16();
 		       rw1.sdname="sadar";
 		       rw1.rollno=1;
